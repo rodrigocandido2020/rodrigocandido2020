@@ -2,9 +2,3 @@
 - 🌱 Estudando asp.net core MVC
 - 📫 Contato email = rodrigocandidoaguiar@gmail.com
 - 😄 Pronomes: ele / ele / dele
-
-
-- <div align="center">
-  <a href="https://github.com/rodrigocandido2020">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocandido2020&layout=compact&langs_count=7&theme=dark"/>
-</div>
