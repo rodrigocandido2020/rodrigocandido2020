@@ -1,3 +1,4 @@
+- Frase de David Heinemeier Hansson "Quando as faíscas voam, algumas idéias verdadeiramente grandes vêm à luz" 
 - desenvolvedor, profissional multitarefa, que consegue transitar entre projetos de desenvolvimento Front-End e Back-End.
 - dev - codar - debugar - comitar
 - 📫 Contato email = rodrigocandidoaguiar@gmail.com
